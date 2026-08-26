@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset files
+*.csv
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
